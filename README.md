@@ -1,2 +1,2 @@
 # SVG-Schemes
-SVG Schemes of some processes maked with Draw.io
+SVG Schemes of some processes made with Draw.io
